@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+.next/
+dist/
+out/
+
+# OS and IDE files
+.DS_Store
+*.log
+.env*
+coverage/
+
+# Misc
+*.pem
+*.swo
+*.swp
